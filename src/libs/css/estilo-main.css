@@ -1,0 +1,35 @@
+
+.all{
+    background: #00796B;
+    margin-top: 45px;
+    border-radius: 15px;
+    padding: 15px;
+    text-align: center;
+}
+
+.all p{
+    margin-top: -12px;
+    /* color:#F57C00; */
+    color: rgba(245, 124, 0, 0.8);
+
+
+}
+
+.icons{
+    margin-top: 15px;
+    color: rgba(245, 124, 0, 0.8);
+}
+
+body{
+    background: #004D40 !important;
+}
+
+h4{
+    color: #FFC107;
+}
+
+#miPicture{
+    width: 150px;
+    margin: 5px;
+    border-radius: 50%;
+}
